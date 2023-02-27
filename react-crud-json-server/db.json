@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Siwakorn",
+      "email": "634259025@webmail.npru.ac.th",
+      "phone": "0123456789",
+      "status": "true"
+    },
+    {
+      "name": "tomonlovejam",
+      "email": "jam@gmai.com",
+      "phone": "2222222",
+      "status": true,
+      "id": 2
+    }
+  ]
+}
